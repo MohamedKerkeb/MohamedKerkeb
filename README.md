@@ -14,12 +14,13 @@ My name is Mohamed and I'm a web developer rookie. I'm from France, living in Pa
 
 ## Languages and Tools
 |Langages | Tools |
-| React | |
-| Angular | |
-| NodeJs | |
-| Java | |
-| JS | |
-| Html & CSS | |
+|---------|--------|
+| React | any |
+| Angular | any |
+| NodeJs | any |
+| Java | any |
+| JS | any |
+| Html & CSS | any |
 
 
 ## Where to find me
