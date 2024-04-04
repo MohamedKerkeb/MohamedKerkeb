@@ -10,10 +10,16 @@ You can click the Preview link to take a look at your changes.
 
 # 👋 Hi, I’m @MohamedKerkeb 
 
-My name is Mohamed and I'm a web developer rookie. I'm from France, living in Paris and currently working "La Poste".
+My name is Mohamed and I'm a web developer rookie. I'm from France, living in Paris and currently working "La Banque Postale".
 
 ## Languages and Tools
-
+Langages:
+- React
+- Angular
+- NodeJs
+- Java
+- JS
+- Html & CSS
 
 
 ## Where to find me
